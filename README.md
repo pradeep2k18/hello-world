@@ -1,2 +1,8 @@
 # hello-world
-sample test
+
+Hi All
+
+Good Morning!
+
+Have a Pleasant Day
+
